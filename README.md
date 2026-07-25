@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

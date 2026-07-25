@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0031-next-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |

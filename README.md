@@ -38,6 +38,7 @@
 | [0031-next-permutation](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

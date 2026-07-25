@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -17,4 +18,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

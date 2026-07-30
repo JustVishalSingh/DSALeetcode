@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |

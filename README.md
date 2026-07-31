@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@
 | [0069-sqrtx](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |

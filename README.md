@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

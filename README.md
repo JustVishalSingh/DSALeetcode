@@ -42,6 +42,7 @@
 | [0050-powx-n](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -101,6 +103,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |

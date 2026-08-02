@@ -5,13 +5,10 @@ public:
        unordered_map<int, int>mp;
        for(int i=0; i<nums.size(); i++){
             int n=target-nums[i];
-            if(mp.find(n)==mp.end()){
-               mp.insert({nums[i],i});
+            if(mp.find(n)!=mp.end()){
+               return{mp[n], i};
             }
-            else{
-                p.push_back(i);
-                p.push_back(mp[n]);
-            }
+            mp[nums[i]]=i;
        }
        return p;
     }

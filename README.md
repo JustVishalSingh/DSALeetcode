@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

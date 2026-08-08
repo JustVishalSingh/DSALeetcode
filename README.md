@@ -77,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -84,6 +85,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |

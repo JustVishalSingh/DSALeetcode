@@ -1,16 +1,18 @@
 class Solution {
 public:
     int reverse(int x) {
-        int digit=0;
-        long long n=0;
+        int n=0;
         while(x!=0){
-            digit=x%10;
-            n=n*10+digit;
+           int digit=x%10;
             x=x/10;
+            if (n > INT_MAX / 10 || (n == INT_MAX / 10 && digit > 7)){
+                return 0;
+            }
+            if (n < INT_MIN / 10 || (n == INT_MIN / 10 && digit < -8)){
+                return 0;
+            }
+            n=n*10+digit;
         }
-        if(n>=-2147483648 && n<=2147483647 ){
-            return n;
-        }
-        return 0;
+        return n;
     }
 };

@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0338-counting-bits) |
@@ -129,4 +131,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

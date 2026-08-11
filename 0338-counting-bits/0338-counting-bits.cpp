@@ -12,11 +12,9 @@ public:
     }
     vector<int> countBits(int n) {
         vector<int>bit;
-        int c=0;
-        while(c<=n){
-            int res=countBit(c);
-            bit.push_back(res);
-            c++;
+        while(n>=0){
+            bit.insert(bit.begin(),countBit(n));
+            n--;
         }
         return bit;
     }

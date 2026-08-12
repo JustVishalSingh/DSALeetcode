@@ -41,6 +41,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0338-counting-bits) |

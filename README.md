@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer

@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |

@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
@@ -159,5 +160,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

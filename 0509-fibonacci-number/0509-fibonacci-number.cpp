@@ -1,9 +1,15 @@
 class Solution {
 public:
-    int fib(int n) {
-        if(n==0|| n==1){
-            return n;
+    int fibDp(int n, vector<int>&sol){
+        if(n<=1) return n;
+        if(sol[n]!=-1){
+            return sol[n];
         }
-        return fib(n-1)+fib(n-2);
+        return sol[n]=fibDp(n-1,sol)+fibDp(n-2, sol);
+    }
+    int fib(int n) {
+        vector<int>sol(n+1, -1);
+        return fibDp(n, sol);
+       
     }
 };

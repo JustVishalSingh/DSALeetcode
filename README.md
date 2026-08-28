@@ -107,6 +107,7 @@
 | [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,10 +145,12 @@
 | [0231-power-of-two](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0338-counting-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
+| [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |

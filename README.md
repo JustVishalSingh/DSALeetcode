@@ -15,6 +15,7 @@
 | [0031-next-permutation](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
@@ -132,6 +133,7 @@
 | [0001-two-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
@@ -161,6 +163,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
 ## Linked List
@@ -180,5 +183,14 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

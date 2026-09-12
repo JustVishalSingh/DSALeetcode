@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |

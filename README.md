@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
+| [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
@@ -109,6 +110,7 @@
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -153,6 +155,7 @@
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -169,12 +172,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |

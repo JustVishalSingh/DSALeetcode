@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
@@ -151,6 +152,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |

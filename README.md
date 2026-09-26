@@ -34,6 +34,7 @@
 | [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |

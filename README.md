@@ -39,6 +39,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +232,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

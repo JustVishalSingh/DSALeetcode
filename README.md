@@ -18,6 +18,7 @@
 | [0036-valid-sudoku](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0069-sqrtx) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0048-rotate-image) |
 ## Dancing Links
 |  |
 | ------- |

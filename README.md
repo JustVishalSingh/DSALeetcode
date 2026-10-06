@@ -22,6 +22,7 @@
 | [0051-n-queens](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -49,6 +50,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
@@ -233,6 +235,7 @@
 | [0036-valid-sudoku](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0074-search-a-2d-matrix) |
 ## Dancing Links
 |  |
 | ------- |

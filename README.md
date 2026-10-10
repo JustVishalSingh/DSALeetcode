@@ -100,6 +100,7 @@
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3884-first-matching-character-from-both-ends](https://github.com/JustVishalSingh/DSALeetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3884-first-matching-character-from-both-ends](https://github.com/JustVishalSingh/DSALeetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Recursion
 |  |
 | ------- |

@@ -46,6 +46,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |

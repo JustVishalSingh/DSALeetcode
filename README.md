@@ -108,6 +108,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/JustVishalSingh/DSALeetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
@@ -233,6 +234,7 @@
 | [0203-remove-linked-list-elements](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Newton's Method
 |  |
 | ------- |

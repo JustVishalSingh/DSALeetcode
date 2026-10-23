@@ -2,7 +2,7 @@ class Solution {
 public:
     int helper(vector<int>&arr, int capacity ){
         int numsDay=1;
-        long long filled=0;
+        int filled=0;
         for(int i=0; i<arr.size(); i++){
             if(filled+arr[i]>capacity){
                 numsDay++;
@@ -13,7 +13,7 @@ public:
         return numsDay;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        long long end=0; 
+        int end=0; 
         int start=*max_element(weights.begin(), weights.end());
         for(int i : weights){
             end+=i;

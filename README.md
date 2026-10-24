@@ -48,6 +48,7 @@
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -150,6 +151,7 @@
 | [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0344-reverse-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3884-first-matching-character-from-both-ends](https://github.com/JustVishalSingh/DSALeetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Recursion
@@ -193,6 +195,7 @@
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -210,6 +213,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |

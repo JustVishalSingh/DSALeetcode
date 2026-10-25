@@ -148,6 +148,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0125-valid-palindrome](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0125-valid-palindrome) |
@@ -312,4 +313,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

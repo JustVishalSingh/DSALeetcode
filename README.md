@@ -50,6 +50,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JustVishalSingh/DSALeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 | [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -38,6 +38,7 @@
 | [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -63,6 +64,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [0152-maximum-product-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
@@ -181,6 +185,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table

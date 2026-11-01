@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +64,7 @@
 | [0074-search-a-2d-matrix](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
@@ -78,6 +80,7 @@
 | [0053-maximum-subarray](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
 ## Math
 |  |
@@ -275,6 +278,7 @@
 | [0037-sudoku-solver](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dancing Links
 |  |
 | ------- |

@@ -20,7 +20,7 @@ public:
     }
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int>ans;
-        if(root==NULL) return ans;
+        //if(root==NULL) return ans;
         postorder(root, ans);
         return ans;
     }

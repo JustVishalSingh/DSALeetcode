@@ -21,7 +21,7 @@ public:
     }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int>ans;
-        if(root==NULL) return ans;
+       // if(root==NULL) return ans;
         helper(root, ans);
         return ans;
     }

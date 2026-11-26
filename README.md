@@ -49,6 +49,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -70,6 +71,7 @@
 | [0493-reverse-pairs](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1539-kth-missing-positive-number) |
@@ -196,6 +198,7 @@
 | [0410-split-array-largest-sum](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0594-longest-harmonious-subsequence](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/JustVishalSingh/DSALeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/JustVishalSingh/DSALeetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
